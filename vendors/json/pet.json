@@ -1,24 +1,16 @@
 {
-<<<<<<< HEAD
-    "id": 117659801,
-=======
-    "id": 173218101,
->>>>>>> 1701f0338af376865891b730b384f3a60eadd5a5
-    "category": {
+  "id": 117659801,
+  "category": {
+    "id": 1,
+    "name": "Detetive Labrador"
+  },
+  "name": "dog",
+  "photoUrls": [],
+  "tags": [
+    {
       "id": 1,
-      "name": "dog"
-    },
-<<<<<<< HEAD
-    "name": "Detetive Labrador",
-=======
-    "name": "Snoopy",
->>>>>>> 1701f0338af376865891b730b384f3a60eadd5a5
-    "photoUrls": [],
-    "tags": [
-      {
-        "id": 1,
-        "name": "vacinned"
-      }
-    ],
-    "status": "available"
-  }
+      "name": "vaccinated"
+    }
+  ],
+  "status": "available"
+}
